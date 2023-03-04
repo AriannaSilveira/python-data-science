@@ -1,0 +1,5 @@
+id,cliente_id,nome,valor,quantidade,valor_total
+3e0f7dde-c3e0-432d-ad29-5c617500fd07,e42bab3e-e0d8-4a69-b3a4-df9c6afa9e37,tesoura,12,2,24.0
+34806bd2-0169-498b-9a6b-7e8a6135ddb8,f3cecd60-4129-4642-9bb7-cd89dc156e87,Arroz,15.6,4,62.4
+7aebf819-0147-468f-92b5-298dd460db6b,b52817e8-cacd-4af2-a27f-a509e2b9f943,Feijão,22,2,44.0
+9da7f4d2-0b4d-4f7e-8b2d-241ef169b737,e42bab3e-e0d8-4a69-b3a4-df9c6afa9e37,Abacaxi,2.5,4,10.0
